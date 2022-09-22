@@ -9,10 +9,13 @@
 </head>
 
 <body>
-    <h1>
 
-        Hi! This is Richard Bernisca.
-    </h1>
+    <div id="app">
+
+    </div>
+
+    <script src="{{ asset('js/app.js') }}?v=2"></script>
+
 </body>
 
 </html>
